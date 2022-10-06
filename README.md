@@ -8,6 +8,14 @@
 npm install
 ```
 
+
+### Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+
 ### TCompile and Minify for Production
 
 ```sh
